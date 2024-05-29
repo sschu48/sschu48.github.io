@@ -7,8 +7,53 @@ title: bookshelf
 - Homo Deus - Yuval Noah Harari
 - Elon Musk - Walter Isaacson
 - Capital in the Twenty First Century - Thomas Piketty
-- Kill Chain
-- Think Fast and Slow
+- Kill Chain - Christian Brose
+- Think Fast and Slow - Daniel Khaneman
 - Titan
 - Napoleon
-- 
+- Benjamin Franklin
+- Einstein
+- Popel Vuh
+- Deep Learning Patterns and Practices
+- Python Tools for Scientists
+- The Elegant Universe
+- These Truths
+- Get Rich With Dividends
+- Shoe Dog
+- The 48 Laws of Power
+- Control System Design
+- Structures or Why Things Don't Fall Down
+- "Surely You're Joking,  Mr. Feynman!"
+- The Everything Store
+- The Space Barons
+- The Lord of the Rings
+- The Obstacle is the Way
+- American Prometheus, Oppenheimer
+- The Voyage of the Beagle - Charles Darwin
+- The 7 Habits of Highly Effective People
+- The Age of Surveillance Capitalism
+- Leonardo Da Vinci
+- John Adams
+- Guns, Germs, and Steel
+- Churchill
+- The Wright Brothers
+- Content Inc.
+- Play Bigger
+- Atomic Habits
+- Basic Economics
+- The Laws of Human Nature
+- Tools of Titans
+- Communication Systems
+- The Bible, NIV
+- The Theory of Money and Credit
+- The Intelligent Investor
+- The History of Western Philosophy
+- The Creative Act
+- Republic - Plato 
+- The Great Reversal
+- Teh Psychology of Money
+- The Autobiography of Benjamin Franklin
+- The art of War - Sun Tzu
+- The Almanack of Naval Ravikant
+- Zero to One
+- Poor Charlie's Almanack
