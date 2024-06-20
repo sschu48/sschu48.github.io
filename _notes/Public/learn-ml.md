@@ -8,7 +8,7 @@ i'll try to update this as much as possible. for the most up to date content [go
 
 {:Ilya}
 ## Ilya 30u30
-[click here](/note/ilya-30-u-30) to view the full list
+[click here](/note/Ilya-30-u-30) to view the full list
 
 {:papers}
 ## papers
