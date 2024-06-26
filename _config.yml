@@ -25,6 +25,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Else keep it Empty (DON'T PUT /; Keep it empty)
 baseurl: ""
 
+# Google Analytics
+google_analytics: G-8FNB8NYFV9
+
 # Website Header, Description, Footer year and text.
 # If you are deleting this, make sure you remove it from HTML files too
 heading: Cachét # Change this
