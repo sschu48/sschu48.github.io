@@ -36,10 +36,10 @@ I believe this is how you can best spend your time when learning a subject. When
 Now finally, why do we need to be recursive? As we efficiently learn more about the ins and outs of our subjects, mental maps need to be constructed. Build yourself a map through each subject you dive into. Use this map to lead yourself through the subject. While it is helpful for understanding a specific subject, it is even more helpful at gaining a stronger grasp of external subjects. Having a new outside view will allow you to view new topics with a new lens. A new lens allows you to find new discoveries. 
 
 
-Build off of these mental maps. Draw them out. Close your eyes, and walk yourself through each map as if you’re following an atlas across the country. This is where the compounding takes place. You have finally built a rhythm of subtly, but continuously, learning new little pockets of a subject. Now this is added to our function recursively and will continuously compound over time. Time ha become out friend, and not our enemy.
+Build off of these mental maps. Draw them out. Close your eyes, and walk yourself through each map as if you’re following an atlas across the country. This is where the compounding takes place. You have finally built a rhythm of subtly, but continuously, learning new little pockets of a subject. Now this is added to our function recursively and will continuously compound over time. Time hsa become out friend, and not our enemy.
 
 
 *I encourage you to never stop learning.*
 
 
-What reason do we have to spend each day if we will know the outcome of tomorrow? This leaves an empty void bare of gratification. We lose all hope in seeking truth, in finding tomorrow. If you continuously learn, you’re always trying to find the answer for tomorrow. The answer may never come, but you will build a beautiful pat along the way discovering even more paths that lead to more joy and prosperity.
+What reason do we have to spend each day if we will know the outcome of tomorrow? This leaves an empty void bare of gratification. We lose all hope in seeking truth, in finding tomorrow. If you continuously learn, you’re always trying to find the answer for tomorrow. The answer may never come, but you will build a beautiful path along the way discovering even more paths that lead to more joy and prosperity.
