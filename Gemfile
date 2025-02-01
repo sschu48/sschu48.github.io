@@ -33,3 +33,8 @@ gem 'jekyll-sitemap'
 gem 'kramdown-math-katex'
 
 gem "webrick", "~> 1.7"
+
+
+gem 'csv'
+gem 'logger'
+gem 'base64'

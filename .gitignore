@@ -1,6 +1,52 @@
-_site
-.jekyll-cache
-pages/.DS_Store
-pages/tags.md
-_notes/.obsidian
-_notes/Public/.obsidian
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+blog.code-workspace
+
+# Node modules and development files
+node_modules/
+package-lock.json
+debug.yml
+startup-notes.txt
+autocomplete.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ruby environment
+.ruby-version
+.ruby-gemset
+.bundle/
+vendor/
+
+# Docker
+docker-compose.yml
+*.dockerfile
+
+# Local environment files
+.env
+.env.local
+.env.*
+
+# Optional: Backup files
+*copy.md
+*backup*
+
+# Keep these files
+!CNAME
+!LICENSE
+!README.md
