@@ -1,2 +1,1 @@
-# sschu48.github.io
-personal website
+sean's website
